@@ -1,8 +1,7 @@
 # IoT_Hunter
-This rep is used to hunter bugs for IoT.
-These vulnerabilities credits ADLab of Venustech 
+These vulnerabilities credits ADLab of Venustech.
 
-InRouter 900 Industrial 4G Router:
+CVE ID for InRouter 900 Series Industrial 4G Router:
 CVE-2022-27268
 CVE-2022-27269
 CVE-2022-27270
