@@ -2,7 +2,7 @@
 This rep is used to hunter bugs for IoT.
 These vulnerabilities credits ADLab of Venustech 
 
-Inhand Series:
+InRouter 900 Industrial 4G Router:
 CVE-2022-27268
 CVE-2022-27269
 CVE-2022-27270
@@ -16,7 +16,7 @@ CVE-2022-27277
 CVE-2022-27279
 CVE-2022-27280
 
-Inhand 900:
+D-Link DIR-619:
 CVE-2022-27268
 CVE-2022-27269
 CVE-2022-27270
