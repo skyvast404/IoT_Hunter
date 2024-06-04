@@ -1,5 +1,5 @@
 # IoT_Hunter
-These vulnerabilities credits ADLab of Venustech.
+
 
 CVE ID for InRouter 900 Series Industrial 4G Router:
 CVE-2022-27268
